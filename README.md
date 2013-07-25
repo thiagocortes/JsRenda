@@ -7,3 +7,4 @@ Neste exemplo utilizei uma função construtora para simular classes com o intui
 Para armazenar os relatórios de processamento eu estou gravando os dados no LocalStorage, mesmo me apresentando um certo erro no navegador Internet-Explore.
 
 
+<a href="http://tinypic.com?ref=2w5q69e" target="_blank"><img src="http://i42.tinypic.com/2w5q69e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
