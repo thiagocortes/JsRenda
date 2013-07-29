@@ -7,7 +7,7 @@ Neste exemplo utilizei uma função construtora para simular classes com o intui
 Para armazenar os relatórios de processamento eu estou gravando os dados no LocalStorage, mesmo me apresentando um certo erro no navegador Internet-Explore.
 
 Está classe faz os calculos inseridos como dados de entrada.
-,,,,,,javascript
+```javascript
 
 
 ////////////////////////////////////////////////////////////////
