@@ -6,7 +6,7 @@ Simulação de renda em Javascript utilizando funções construtoras para simula
 Neste exemplo utilizei uma função construtora para simular classes com o intuito de criar um objeto disponibilizando seus atributos e métodos para assim tentar organizar e facilitar a aplicação.
 Para armazenar os relatórios de processamento eu estou gravando os dados no LocalStorage, mesmo me apresentando um certo erro no navegador Internet-Explore.
 
-Está classe faz os calculos inseridos como dados de entrada.
+Essa classe computa dos dados inseridos no programa, gera relatório de processamento mostrando como resultado uma informação relevante e organizada.
 
 ```javascript
 ////////////////////////////////////////////////////////////////
