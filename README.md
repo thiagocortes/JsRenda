@@ -44,9 +44,8 @@ Está classe faz os calculos inseridos como dados de entrada.
             };
         }//END CLASS 
 
-´´´</script>
 
 
 
-Erro apresentado no internet-explore! 
-<img src="http://i42.tinypic.com/2w5q69e.jpg" border="0" alt="Image and video hosting by TinyPic">
+
+
