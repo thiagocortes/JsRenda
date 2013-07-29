@@ -7,11 +7,10 @@ Neste exemplo utilizei uma função construtora para simular classes com o intui
 Para armazenar os relatórios de processamento eu estou gravando os dados no LocalStorage, mesmo me apresentando um certo erro no navegador Internet-Explore.
 
 Está classe faz os calculos inseridos como dados de entrada.
+
 ```javascript
-
-
 ////////////////////////////////////////////////////////////////
-        //CONSTRUÇÃO DA CLASS/FUNÇÃO CONSTRUTORA COM SEUS ATRIBUTOS E METODOS
+//CONSTRUÇÃO DA CLASS/FUNÇÃO CONSTRUTORA COM SEUS ATRIBUTOS E METODOS
 
         function Renda(capital,meses,juros){
             this.capital = capital;
@@ -45,7 +44,7 @@ Está classe faz os calculos inseridos como dados de entrada.
             };
         }//END CLASS 
 
-
+´´´</script>
 
 
 
